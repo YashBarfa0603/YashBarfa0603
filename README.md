@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a developer who enjoys building clean, practical, and user-focused applications. I like turning ideas into real products, focusing on performance, simplicity, and good design.<br><br>Currently, I’m improving my skills in mobile app development, working with databases and APIs, and strengthening my core computer science fundamentals. I’m always curious to learn new technologies and build things that actually solve problems.
+I am a passionate developer focused on building scalable and user-friendly applications. I work across mobile and backend development, with a strong emphasis on clean UI, smooth performance, and practical real-world solutions. I enjoy turning ideas into functional products while continuously improving my technical skills.<br><br>I have hands-on experience with modern technologies and focus on writing clean, maintainable code while delivering complete, end-to-end features.<br><br>📱 Mobile Development : Flutter, Dart<br>💻 Programming Languages : C++, Java, JavaScript, Python<br>🌐 Backend Development : Node.js, Express.js<br>🗄️ Databases : SQLite, MongoDB, Firebase, Supabase<br>🔗 Tools & Technologies : Git, GitHub, REST APIs<br>☁️ Backend & Services : Firebase, Supabase
 
 
 ## 🌐 Socials:
