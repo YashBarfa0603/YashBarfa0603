@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)
-# 💫 About Me:
+# <h1 align="center">Hi 👋, I'm YASH</h1>
 I am a passionate developer focused on building scalable and user-friendly applications. I work across mobile and backend development, with a strong emphasis on clean UI, smooth performance, and practical real-world solutions. I enjoy turning ideas into functional products while continuously improving my technical skills.<br><br>I have hands-on experience with modern technologies and focus on writing clean, maintainable code while delivering complete, end-to-end features.<br><br>📱 Mobile Development : Flutter, Dart<br>💻 Programming Languages : C++, Java, JavaScript, Python<br>🌐 Backend Development : Node.js, Express.js<br>🗄️ Databases : SQLite, MongoDB, Firebase, Supabase<br>🔗 Tools & Technologies : Git, GitHub, REST APIs<br>☁️ Backend & Services : Firebase, Supabase
 
 
