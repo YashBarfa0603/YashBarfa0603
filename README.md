@@ -16,6 +16,6 @@ I am a passionate developer focused on building scalable and user-friendly appli
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashBarfa0603&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=YashBarfa0603&label=Visitors&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
+[![Profile Visitors](https://komarev.com/ghpvc/?username=YashBarfa0603&label=Profile%20Visitors&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
